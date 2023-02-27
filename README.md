@@ -1,3 +1,0 @@
-# Ankit
-Weather data
-# print 
